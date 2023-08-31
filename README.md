@@ -3,7 +3,7 @@
 <div>
 <a href="https://github.com/soarespzz">
 <img width="42%" src="https://github-readme-stats.vercel.app/api?username=soarespzz&theme=dracula&show_icons=true&include_all_commits=true&count_private=true"(https://github.com/anuraghazra/github-readme-stats"/>
-<img width="50%" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs?username=soarespzz&theme=dracula&show_icons=true&include_all_commits=true&count_private=true"(https://github.com/anuraghazra/github-readme-stats)/>
+<img width="50%" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs?username=soarespzz&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&layout=compact"(https://github.com/anuraghazra/github-readme-stats)/>
 </div>
 
 <div style="display: inline_block"><br>
