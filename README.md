@@ -1,4 +1,6 @@
-### Oiii eu sou a Aninha, estudante de front-end 💗
+
+<p align="center"><a href="https://sgithub.com/soarespzz" target="blank"> <img src="https://github.com/Soarespzz/Soarespzz/blob/main/github/hii.png?raw=true" alt="Hi I am Ana" style="width:800px; height:300px;"></a></p>
+
 
 <div>
 <a href="https://github.com/soarespzz">
@@ -21,6 +23,5 @@
 <div> 
   <a href="https://www.instagram.com/soarespzz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ana777soares.sp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-  ![Snake animation](https://github.com/Soarespzz/Soarespzz/blob/output/github-contribution-grid-snake.svg)
 </div>
+![Snake animation](https://github.com/soarespzz/soarespzz/blob/output/github-contribution-grid-snake.svg)
