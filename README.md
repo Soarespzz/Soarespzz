@@ -5,8 +5,8 @@
 # 🧠 Stats:
 <div>
 <a href="https://github.com/soarespzz">
-<img width="44%" src="https://github-readme-stats.vercel.app/api?username=soarespzz&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"/>
-<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=soarespzz&theme=radical&hide_border=true"/>
+<img width="44%" src="https://github-readme-stats.vercel.app/api?username=soarespzz&theme=radical&show_icons=true&include_all_commits=true&count_private=true"/>
+<img width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=soarespzz&theme=radical&locale=pt_BR" />
 <img width="91%" height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soarespzz&layout=compact&theme=radical&hide_border=true"/>
 </div>
   
